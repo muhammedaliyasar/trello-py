@@ -1,0 +1,15 @@
+- Refakat kartı hızlandırılması Ekstra proseses eklendiğinde çıktıda en sona atıyor
+- renk reçetesine lot eklenecek. Partinin lotu ile bu lot aynı değilse sistem izin vermeyecek.
+- Ön maliyette önceden çalışılmış renk gelmiyor.
+- 5 nolu rapor hızlandırılsın.
+- 5 numaralı raporda müşteri onay tarihi dolu olanlar geliyor. Yeni bir sütun açılacak makine planlama tarihlerini bu sütuna basacak.makine planlanmış Ve onayı olmayanlar da gelecek.
+- Renk reçetesinde yeni bir satır eklendiğinde veya olan satırın kimyasalı değiştrilip kaydedildikten sonra reçete kopyalandığında yeni reçetede güncelleme yapılan kayıdı sona atıyor.
+- Mkaine planlama ekranında ram planlamaya çalışılmalı. Yakında istenecek
+- Reçete ekranında baskı partileri metre olarak geliyor. Reçete çıkarılamıyor. Kg a çevrilip gelmeli
+- 2 kere üretimden iade alınma durumunda sistem hataya düşüyor.
+- 26 nolu raporda test ok sütunu fiziklab pop up da sonuç(select_15) seçiminden beslensin ok ise k red ise R yazsın
+- Refakat kartında fason örgü depo parti noları için müşteri sipariş no sütunu giriş yapılan müşterinin ki olsun örn: 18146 18154
+- Kalite Kontrol sarım raporu ve fizik lab yazdır pdfini parti sevk olunca mail atacak. Tek bir mail olarak
+- 5 nolu rapora kumaş lotu eklenecek
+- Reçete kopyalama incelenecek
+- Fason Örgülerde satınalma sipariş ekranında tekli red yapınca giden satırlar kadar miktardan düşmeli
